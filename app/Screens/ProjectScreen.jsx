@@ -20,8 +20,7 @@ export default function ProjectsScreen() {
       description: "Mobile portfolio to showcase my projects",
       tech: "React Native, JavaScript, Figma",
       image: require('@/assets/images/imgPortfolio.png'),
-      link: "https://github.com/[your-username]/portfolio",
-      git: "https://github.com/anhphi1125/ASM_CRO102",
+      git: "https://github.com/anhphi1125/Portfolio",
     },
     {
       name: "Plant & Accessories App",
